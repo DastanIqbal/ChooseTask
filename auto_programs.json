@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Listen Music",
+    "path": "C:\\Users\\IQBAL-MEBELKART\\Desktop\\MusicBee\\MusicBee.exe",
+    "args": []
+  },
+  {
+    "name": "Work on Android-Studio",
+    "path": "C:\\Program Files\\Android\\Android Studio\\bin\\studio.exe",
+    "args": []
+  },
+  {
+    "name": "Work on Sublime-text",
+    "path": "C:\\Program Files\\Sublime Text 3\\sublime_text.exe",
+    "args": []
+  },
+  {
+    "name": "Work on WebStorm NodeJS Editor",
+    "path": "C:\\Program Files (x86)\\JetBrains\\WebStorm 11.0.1\\bin\\WebStorm.exe",
+    "args": []
+  },
+  {
+    "name": "Open Ubuntu VM",
+    "path": "C:\\Program Files\\Oracle\\VirtualBox\\VBoxManage.exe",
+    "args": [
+      "startvm",
+      "Ubuntu"
+    ]
+  },
+  {
+    "name": "Work on Server WAMP",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WampServer\\wampmanager.exe",
+    "args": []
+  },
+  {
+    "name": "Open Chrome",
+    "path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "args": []
+  },
+  {
+    "name": "Open Torch",
+    "path": "C:\\Users\\IQBAL-MEBELKART\\AppData\\Local\\Torch\\Application\\torch.exe",
+    "args": []
+  },
+  {
+    "name": "Open Geany Motion",
+    "path": "C:\\Program Files\\Genymobile\\Genymotion\\genymotion.exe",
+    "args": []
+  },
+  {
+    "name": "What is my IP?",
+    "path": "",
+    "args": []
+  }
+]
