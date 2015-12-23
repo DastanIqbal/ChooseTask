@@ -51,5 +51,10 @@
     "name": "What is my IP?",
     "path": "",
     "args": []
+  },
+  {
+    "name": "Relax Eyes",
+    "path": "F:\\Dastan\\NW\\EyesRelaxReminder\\run.bat",
+    "args": []
   }
 ]
